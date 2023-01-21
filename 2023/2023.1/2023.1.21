@@ -9,10 +9,14 @@
 
 ・・・・・・・・・・・・・・
 あと残り12個
-split
+
+(済）11:30~13:10 (1.5h)
 itoa
+
 strmapi
 lstnew
+
+
 lstadd_front
 lstsize
 lstlast
@@ -21,6 +25,7 @@ lstdelone
 lstclear
 lstiter
 lstmap
+split
 .........................
 
 質問リスト
