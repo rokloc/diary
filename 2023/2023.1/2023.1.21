@@ -1,22 +1,19 @@
 【2023年1月21日土曜日】
 11時　横浜市中央図書館着
 ・ft_strtrim.c
-・
-
-16時　帰宅準備
-
-今日はlibftを一通り解いた。わからない点リストを作ったので、明日は聞き回る。
+・ft_itoa.c
+・ft_strmapi.c（途中）
 
 ・・・・・・・・・・・・・・
-あと残り12個
+あと残り11個
 
 (済）11:30~13:10 (1.5h)
 itoa
 
+13:00~
 strmapi
+
 lstnew
-
-
 lstadd_front
 lstsize
 lstlast
